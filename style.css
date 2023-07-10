@@ -19,6 +19,8 @@ body {
   background: #f1f7fe;
   padding: 2em;
   display: flex;
+  align-items: center;
+  justify-content: center;
   flex-direction: column;
   border-radius: 30px;
   box-shadow: 0 0 2em #e6e9f9;
