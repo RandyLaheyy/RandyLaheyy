@@ -17,18 +17,15 @@ body {
 
 .screen-1 {
   background: #f1f7fe;
-  padding: 4em;
+  padding: 2em;
   display: flex;
-  align-items: center;
-  justify-content: center;
   flex-direction: column;
   border-radius: 30px;
   box-shadow: 0 0 2em #e6e9f9;
   gap: 2em;
 }
 .screen-1 .logo {
-  width: 200px;
-  height: 200px;
+  margin-top: -3em;
 }
 .screen-1 .email {
   background: white;
